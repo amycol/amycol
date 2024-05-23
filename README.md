@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @amycol
 - 👀 I’m interested in programming, electronics, 3D printing, photography and gaming among other things.
-- 🌱 I’m currently learning C, Java, Javascript, Go and Rust.
+- 🌱 I’m currently learning Java and Rust.
+- 🧀 I know HTML, CSS, JavaScript, Python, C and Go
 - 📫 How to reach me:
 - Email: amy@amycollins.me
 
+<br><br><br><br>
+    (i use arch btw <sub>and macos</sub>)
 
 
 <!---
