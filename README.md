@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amycol
 - 👀 I’m interested in programming, electronics, 3D printing, photography and gaming among other things.
 - 🌱 I’m currently learning Java and Rust.
-- 🧀 I know HTML, CSS, JavaScript, Python, C and Go
+- 🧀 I know HTML, CSS, PHP, JavaScript, Python, C and Go
 - 📫 How to reach me:
 - Email: amy@amycollins.me
 
